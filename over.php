@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>
+over
+</title>
+<style>
+body
+{	
+	background-image:url("abv.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:250px;
+}
+h1
+{
+	font-size:150px;
+	color:black;
+	}
+p{
+	color:white;
+	font-size:40px;
+	background-color:black;
+	opacity:.7;
+	padding:1px;
+}
+</style>
+<head>
+<body>
+<center><p>Thank you for visiting on the website....<br>:)<br>:)<br>:) <br><a href="http://localhost/com/over.php">Thank You For Visiting </a> </p></center>
+</body>
+</html>

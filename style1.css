@@ -1,0 +1,84 @@
+body{
+	margin: 0;
+	padding: 400;
+	background-image: url(qq.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	}
+	.button
+	{
+		padding: -240;
+		float: right;
+
+		
+	}
+.login
+{
+	width: 350px;
+	height: 500px;
+	
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 50px 50px;
+	opacity: .9;
+}
+
+.comimm{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -50px;
+	left: calc(75% -50px);
+	}	
+.h1{
+	color: white;
+	font-weight: italic;
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 22px;
+	}	
+	
+.login input{
+	width: 100%;
+	margin-bottom: 20px;
+	}
+
+.login input[type="text"],input[type="password"]
+{
+	border: none;
+	border-bottom: 1px solid black;
+	background: black;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+	}
+.login input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: black;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 20px;
+	}
+.login input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: yellow;
+	color: #000;
+	}
+.login a 
+{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 20px;
+	color: black;
+	}
